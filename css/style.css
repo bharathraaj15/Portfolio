@@ -1092,7 +1092,9 @@ footer .wave#wave4
     .about .about-content .left img{
         height: 350px;
         width: 350px;
+        object-fit: cover;
         object-position: 0 28%;
+        
     }
 }
 
