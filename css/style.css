@@ -267,8 +267,8 @@ section .title::after{
     height: 400px;
     width: 400px;
     object-fit: cover;
-    object-postion: 0 28%;
     border-radius: 6px;
+    object-position: 0 28%;
 }
 .about .about-content .right{
     width: 55%;
